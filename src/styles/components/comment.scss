@@ -1,0 +1,17 @@
+.comment {
+  margin: 16px 0 0 16px;
+  border-radius: 4px;
+  list-style: none;
+
+  &__author {
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+  }
+
+  &__text {
+    line-height: 1.6;
+    font-size: 14px;
+    color: #555;
+  }
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font: {
+    family: Railway;
+    weight: bold;
+    display: swap;
+  }
+  src: url(./Raleway-Bold.woff2) format('woff2'),
+    url(./Raleway-Bold.woff) format('woff');
+}
+
+@font-face {
+  font: {
+    family: Railway;
+    weight: normal;
+    display: swap;
+  }
+  src: url(./Raleway-Regular.woff2) format('woff2'),
+    url(./Raleway-Regular.woff) format('woff');
+}
